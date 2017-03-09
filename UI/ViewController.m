@@ -19,6 +19,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //改动1
     Tools *tool = [[Tools alloc]init];
     [_screen1 setText:@"Roll多少存多少！"];
     [_roll setTitleColor:[UIColor whiteColor] forState:UIControlStateNormal];
