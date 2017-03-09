@@ -19,17 +19,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     //改动3
-=======
+
     //改动1
->>>>>>> parent of 590d2a8... 1.2
-=======
->>>>>>> parent of 4f1b277... 1.1
-=======
->>>>>>> parent of 4f1b277... 1.1
     Tools *tool = [[Tools alloc]init];
     [_screen1 setText:@"Roll多少存多少！"];
     [_roll setTitleColor:[UIColor whiteColor] forState:UIControlStateNormal];
